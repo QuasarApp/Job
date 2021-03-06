@@ -1,5 +1,5 @@
 # Junior C++/Qt developer
-Remote Work / Half Rate (84 h / m) (from 200$)
+Remote Work / Half Rate (84 h / m)
 
 The work is carried out completely remotely, communication is carried out through a conference in Telegram. 
 
@@ -8,6 +8,10 @@ The work is carried out completely remotely, communication is carried out throug
 QuasarApp is a startup with a friendly team. We are engaged in the development of interesting, promising cross-platform open source applications.
 We need a half-time C++ developer(student) 
 
+## Payement
+From 200$
+
+At the moment, we have just started our activities and we do not have the opportunity to pay more, but the situation should change in the future.
 
 ## Duties:
 
