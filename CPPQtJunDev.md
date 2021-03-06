@@ -1,5 +1,5 @@
 # Junior C++/Qt developer
-Remote Work / Half Rate (84 h / m)
+Remote Work / Half Rate (84 h / m) (from 200$)
 
 The work is carried out completely remotely, communication is carried out through a conference in Telegram. 
 
