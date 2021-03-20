@@ -1,4 +1,7 @@
 # Job
+
+<div style="text-align:center"><img src="res/IconPlatinumCorp.png" /></div>
+
 This project contains internal vacancies of the QuasarApp group. 
 
 ## We offer remote job for next developers:
