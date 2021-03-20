@@ -1,6 +1,10 @@
 # Job
 
-<div style="text-align:center"><img src="res/IconPlatinumCorp.png" /></div>
+
+<p align="center">
+  <img src="res/IconPlatinumCorp.png"/>
+</p>
+
 
 This project contains internal vacancies of the QuasarApp group. 
 
