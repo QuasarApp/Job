@@ -9,7 +9,7 @@
 This project contains internal vacancies of the QuasarApp group. 
 
 ## We offer remote job for next developers:
-1. [Junior (trainee) C++/Qt Developer](CPPQtJunDev.md) (84 hour in mounth, flexible working hours)
+Sorry but in the current time are not available vacancy
 
 
 ## How to accept a selected vacansion.
