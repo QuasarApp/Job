@@ -1,4 +1,7 @@
 # Junior C++/Qt developer
+
+# This vacancy is closed
+
 Remote Work / Half Rate (84 h / m)
 
 The work is carried out completely remotely, communication is carried out through a conference in Telegram. 
